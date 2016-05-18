@@ -7,6 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h3>hihihi</h3>
+=======
+<<<<<<< HEAD
+
+=======
+<h3>kosta112 3조</h3>
+>>>>>>> branch 'master' of https://github.com/brandshim/group3.git
+>>>>>>> branch 'master' of https://github.com/brandshim/group3.git
 </body>
 </html>
