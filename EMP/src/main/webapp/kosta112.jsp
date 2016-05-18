@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>kosta112 3조 git</h3>
+<h3>kosta112 3조</h3>
 </body>
 </html>
