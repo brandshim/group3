@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace="dao.NoticeDao 인터페이스 동일 경로 
+     구현된되는 ID 값들을 인터페이스 함수명과 동일
+ -->
+<mapper namespace="dao.MemberDao">
+ <select id="getMember" resultType="vo.Member">
+  select * from member where userid=#{userid,jdbcType=VARCHAR
+  
+                                     }
+ </select> 
+</mapper>
